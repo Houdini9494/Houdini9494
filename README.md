@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Houdini9494
-- 👀 I’m interested in IT & web developing
-- 🌱 I'm currently learning Python,SQL and Blockchain stuffs running a personal bitcoin full node
+- 👀 I’m interested in IT & sw developing
+- 🌱 I'm currently learning C/C++,Python + other langueages and Blockchain stuffs while running a personal bitcoin full node
 - 💞️ I’m looking to collaborate on some web project to learn and improve myself
 - 📫 How to reach me : Giakithepest94@hotmail.it
 
